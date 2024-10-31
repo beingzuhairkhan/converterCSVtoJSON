@@ -17,7 +17,7 @@ A command-line interface (CLI) tool for converting CSV files to JSON format and 
 To install the package, run:
 
 ```bash
-npm install convertcsvtojson
+npm install @beingzuhairkhan/convertcsvtojson
 ```
 
 ---
