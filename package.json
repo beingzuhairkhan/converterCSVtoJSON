@@ -1,5 +1,5 @@
 {
-  "name": "convertcsvtojson",
+  "name": "@beingzuhairkhan/convertcsvtojson",
   "version": "1.0.0",
   "description": "A command-line tool for converting CSV files to JSON format and vice versa, with options for merging multiple files.",
   "main": "index.js",
@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/beingzuhairkhan/converterCSVtoJSON/issues"
   },
-  "homepage": "https://github.com/beingzuhairkhan/converterCSVtoJSON#readme"
+  "homepage": "https://github.com/beingzuhairkhan/converterCSVtoJSON#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
